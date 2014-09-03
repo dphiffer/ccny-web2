@@ -1,9 +1,9 @@
-### Design for the World Wide Web 2
 ## Week 1: Developer Tools
+#### Design for the World Wide Web 2
 
-Before we begin, please fill out a [student survey](https://docs.google.com/forms/d/1lMjTXflX3SHJvwfyvbkKLXRVmN0XgcdPijFT18zVDFg/edit).
+Before we begin, please fill out the [student survey](https://docs.google.com/forms/d/1lMjTXflX3SHJvwfyvbkKLXRVmN0XgcdPijFT18zVDFg/edit).
 
-The first developer tool we are going to learn about is GitHub, a popular code sharing and hosting service. It has quickly become the dominant tool for collaborating with developers, and for distributing open source code. GitHub is also used for [all sorts of stuff](http://www.ted.com/talks/clay_shirky_how_the_internet_will_one_day_transform_government) that has nothing to do with code.
+The first developer tool we are going to learn about is [GitHub](https://github.com/), a popular code sharing and hosting service. It has quickly become the dominant tool for collaborating with developers, and for distributing open source code. GitHub is also used for [all sorts of stuff](http://www.ted.com/talks/clay_shirky_how_the_internet_will_one_day_transform_government) that has nothing to do with code.
 
 ### Build a mobile-friendly web page
 
@@ -31,7 +31,7 @@ We have a reading that accompanies this week's assignment: [All you need is publ
 
 1. You should be on the GitHub repository page, at a URL that's something like `https://github.com/alice/alice.github.io` (of course, with your username in place of `alice`). Click on the plus button as shown in this screen shot to create a new file:  
   ![Create a new file](img/new_file.png)
-2. In the box that says "Name your file", type in `index.html`.
+2. Type `index.html` into the box that says "Name your file."
 3. Type in some basic HTML (see this [template](template.html) for a starting point).
 4. Click the green *Commit new file* to upload your page.
 5. Visit *[your username]*.github.io to see your new page! (If this doesn't work at first, give it a few minutes and see if it appears.)
