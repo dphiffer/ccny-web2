@@ -26,7 +26,7 @@ We have a reading that accompanies this week's assignment: [All you need is publ
 2. In the box that says *Repository name*, enter your username followed by ".github.io". So if your username is "alice" you would enter "alice.github.io". Typing this precisely is important, so double-check it before you continue.
 3. Click the green *Create repository* button.
 4. On the next page, you'll see a lot of information. You can ignore most of it and just click on the README link, next to the text that says "We recommend every repository include a..."
-5. Type in a short description of what you'd like your website to look like, something like "I am building my personal portfolio site here." (Type your description under the "=======================", which is a formatting rule from [GitHub-flavored Markdown](https://help.github.com/articles/github-flavored-markdown).)
+5. Type in a short description of what you'd like your website to look like, something like "I am building my personal portfolio site here." (Type your description under the `=======================` part, which is a formatting rule from [GitHub-flavored Markdown](https://help.github.com/articles/github-flavored-markdown).)
 6. Click on the green *Commit new file* button on the bottom of the page.
 
 #### Hello, World
