@@ -44,3 +44,7 @@ We have a reading that accompanies this week's assignment: [All you need is publ
 2. Click *Commit changes* when you're ready to test things out.
 3. You can add additional files, such as a stylesheet, by clicking the same plus icon you used in the *Hello, World* section above.
 4. Continue editing and saving your HTML and CSS until you have something you're happy with.
+
+#### Ask for help early
+
+If you get confused along the way, please don't hesitate to get in touch. I'm available via email (dan at phiffer dot org), or to meet up by appointment. You'll be certain to get better results by asking for help earlier than later.
