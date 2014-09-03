@@ -13,6 +13,8 @@ We have a reading that accompanies this week's assignment: [All you need is publ
 
 #### Sign up for GitHub
 
+![All hail Octocat](img/octocat.png)
+
 1. Start by creating a GitHub account at [github.com](https://github.com/).
 2. Leave the plan set to "free" and click the green *Finish sign up* button.
 3. Check your email, you should have a message with the subject "[GitHub] Please verify your email." Click on the link to verify your email address. (You should make sure to open the link in the same web browser you used to sign up.)
@@ -30,7 +32,7 @@ We have a reading that accompanies this week's assignment: [All you need is publ
 #### Hello, World
 
 1. You should be on the GitHub repository page, at a URL that's something like `https://github.com/alice/alice.github.io` (of course, with your username in place of `alice`). Click on the plus button as shown in this screen shot to create a new file:  
-  ![Create a new file](img/new_file.png)
+  ![Create a new file](img/new_file.jpg)
 2. Type `index.html` into the box that says "Name your file."
 3. Type in some basic HTML (see this [template](template.html) for a starting point).
 4. Click the green *Commit new file* to upload your page.
