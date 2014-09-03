@@ -1,6 +1,6 @@
-### Design for the World Wide Web 2
+## Design for the Web 2
 
-The City College of New York, Art 49540, Fall 2014  
+[The City College of New York](http://www.ccny.cuny.edu/), [EDM program](http://edm.arts.ccny.cuny.edu/), Art 49540, Fall 2014  
 Instructor: [Dan Phiffer](http://phiffer.org/)  
 Course website: [github.com/ccny-edm/web2](https://github.com/ccny-edm/web2)  
 Wednesdays, 9:00-11:50 am  
@@ -14,15 +14,19 @@ Unfortunately, you would be wrong. There is so much more! We won't possibly get 
 
 Building websites is extremely complicated. You might encounter people who disregard HTML and CSS as not being "real" programming languages. They even say that about JavaScript and PHP—"oh, well those are just 'scripting' languages," they'll say, "nothing like C++ or FORTRAN."
 
-I disagree with this view, I think everything involving keyboards and screens is effectively programming. You program your Facebook by clicking on little thumb buttons. Granted, web-oriented languages like HTML/CSS/JavaScript don't burden you with some of the more arcane aspects of managing a computer's hardware, but every year JavaScript slips closer to being the *de facto* programming language, and brings you closer as a developer to the bare metal of a computer's hardware. The same is true with other web technologies too, they're all changing really fast, and we need to keep adapting to what's possible.
+I disagree with this view, I think that everything involving keyboards and screens is effectively programming. You program your Facebook by clicking on little thumb buttons. The hard part about designing and building websites is that things keep changing. Every year JavaScript slips closer to being the *de facto* programming language for everything and brings us closer, as developers, to the bare metal of a computer's hardware. The same is true with other web technologies too, they're all adapting and improving at breakneck speeds.
 
 The main thing I want you to take away from this course is that the web is still not really figured out. The web doesn't know what it is yet, it's barely older than most of you. So that's our job; we are all part of a collective *figuring out of things*.
 
-The web has figured out a whole lot, of course. It was much fuzzier when I got started tinkering with it in college. Things have clarified, debates have been settled. For example, we don't have to care quite as much about whether a browser is in "quirks mode," or if we can count on it to fall in line with [established web standards](http://www.w3.org/). We can reliably use [more and more](http://caniuse.com/) of the cool new stuff.
+A lot has been figured out already, of course. It was much fuzzier when I got started tinkering with building websites in college. Things have clarified, debates have been settled. The [documentation](https://developer.mozilla.org/) is better. We don't have to care quite as much about whether a browser is in "quirks mode," or if it falls in line with [established web standards](http://www.w3.org/). We can reliably use [more and more](http://caniuse.com/) of the cool new stuff.
 
-This course will provide an introduction to *slightly more advanced* programming for the web, and guide you through the process of building creative web-based projects. A lot of our time will be spent learning how to write good code. At first we're going to be focusing a lot on *process*: how to use developer tools, how to read documentation. We'll be learning good habits as we go along, such as properly indenting code, and being aware of the strategies to debug things that have gone wrong. Ultimately you will build (and rebuild) a responseive online portfolio site you can use to show off your work.
+This course will provide an introduction to *slightly more advanced* programming for the web, and guide you through the process of building creative web-based projects. Primarily this means HTML and CSS, but we'll cover some very basic JavaScript as well. There's a whole other EDM class devoted to JavaScript, in this class we'll mainly limit ourselves to using frameworks.
 
-This syllabus will change throughout the semester.
+A lot of our time will be spent learning how to write good code. At first we're going to be focusing a lot on *process*: how to use developer tools, how to read documentation. We'll be learning good habits as we go along, such as properly indenting code, and being aware of strategies we can use to debug when things have gone wrong. (Things always go wrong!) Ultimately you will build, and rebuild, a responseive online portfolio site you can use to promote your work.
+
+<p>
+This syllabus will change throughout the semester, so keep an eye on this page and [its change log](). Once you finish reading this, please send me an email at dan&#64;phiffer.org with a link to your first week's assignment.
+</p>
 
 #### Objectives
 
@@ -59,7 +63,7 @@ Grades are given based on: 
 
 * Week 1: Developer tools
 * Week 2: Mobile-first development
-* Week 3: Typography and layout
+* Week 3: Typography and layout  
 *No class meeting September 24*
 * Week 4: HTML semantics
 * Week 5: CSS animation/transitions
@@ -70,6 +74,6 @@ Grades are given based on: 
 * Week 10: Parallax & scrolling effects
 * Week 11: Frameworks, Modernizr, Sass
 * Week 12: Using audio and video
-* Week 13: *Something TBD*
+* Week 13: *To be determined*
 * Week 14: Lab day
 
