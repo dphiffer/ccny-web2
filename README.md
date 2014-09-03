@@ -25,7 +25,7 @@ This course will provide an introduction to *slightly more advanced* programming
 A lot of our time will be spent learning how to write good code. At first we're going to be focusing a lot on *process*: how to use developer tools, how to read documentation. We'll be learning good habits as we go along, such as properly indenting code, and being aware of strategies we can use to debug when things have gone wrong. (Things always go wrong!) Ultimately you will build, and rebuild, a responseive online portfolio site you can use to promote your work.
 
 <p>
-This syllabus will change throughout the semester, so keep an eye on this page and [its change log](). Once you finish reading this, please send me an email at dan&#64;phiffer.org with a link to your first week's assignment.
+This syllabus will change throughout the semester, so keep an eye on this page and [its change log](https://github.com/ccny-edm/web2/commits/master/README.md). Once you finish reading this, please send me an email at dan&#64;phiffer.org with a link to your first week's assignment.
 </p>
 
 #### Objectives
