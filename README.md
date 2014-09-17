@@ -5,6 +5,7 @@ Instructor: [Dan Phiffer](http://phiffer.org/)
 Course website: [github.com/ccny-edm/web2](https://github.com/ccny-edm/web2)  
 Wednesdays, 9:00-11:50 am  
 Compton-Goethals Hall 122  
+[Student pages](https://github.com/ccny-edm/web2/wiki/Students)  
 
 #### Course Description
 
