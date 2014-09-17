@@ -49,7 +49,7 @@ Your page should be built mobile first: start with a layout that is meant to wor
 
 ### Use `git` to upload your changes
 
-Go to the repository for your website, something like github.com/dphiffer/dphiffer.github.io (but with your username instead of mine). Look for the "Clone URL" on the right hand side of the page. Copy that URL, it should begin with `https://`.
+Go to the repository for your website (something like "github.com/dphiffer/dphiffer.github.io," but with your username instead of mine). Look for the "Clone URL" on the right hand side of the page. Copy that URL, it should begin with `https://`.
 
 Now use the command line terminal to clone your repository onto your desktop.
 
@@ -57,6 +57,8 @@ Now use the command line terminal to clone your repository onto your desktop.
 cd ~/Desktop
 git clone https://github.com/dphiffer/dphiffer.github.io.git
 ```
+
+Not to belabor the point, but make sure you've substituted your username for "dphiffer."
 
 Copy the files you've been working on into that new folder on your desktop. Now use the following commands to add your new files into the repository. You only need to add them once. From now on, these files are a part of your repository.
 
