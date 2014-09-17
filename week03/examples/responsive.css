@@ -1,0 +1,30 @@
+body {
+	margin: 0 0 100px 0;
+}
+
+h1 {
+	font: bold 24px "helvetica neue", helvetica, arial sans-serif;
+	margin: 2em 0 1em 0;
+}
+
+#content {
+	width: 100%;
+	padding: 20px;
+	box-sizing: border-box;
+	font: 14px palatino, serif;
+	line-height: 24px;
+}
+
+@media screen and (min-width: 500px) {
+	
+	body {
+		text-align: center;
+	}
+
+	#content {
+		width: 500px;
+		margin: 0 auto;
+		text-align: left;
+	}
+	
+}

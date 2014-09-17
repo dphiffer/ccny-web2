@@ -1,0 +1,39 @@
+
+@import url(http://fonts.googleapis.com/css?family=Open+Sans+Condensed:300);
+
+body {
+	text-align: center;
+	font-family: "helvetica neue", helvetica, arial, sans-serif;
+	font-size: 14px;
+	line-height: 24px;
+}
+
+h1 {
+	font-family: "open sans condensed", "helvetica neue", helvetica, arial, sans-serif;
+	font-size: 72px;
+	line-height: 100px;
+	letter-spacing: 0.1em;
+	font-weight: 100;
+	text-transform: uppercase;
+}
+
+#container {
+	width: 750px;
+	margin: 0 auto;
+	text-align: left;
+}
+
+#main {
+	width: 500px;
+	float: left;
+}
+
+#sidebar {
+	width: 200px;
+	float: right;
+	margin-top: 406px;
+}
+
+.clear {
+	clear: both;
+}
