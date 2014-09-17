@@ -7,9 +7,9 @@ This week we are thinking about layout and typography as they apply to building 
 
 ### Take a stroll through the garden
 
-We'll start this week by taking some time to find some design inspiration, and also learning from the mistakes of others. Browse the [CSS Zen Garden](http://www.mezzoblue.com/zengarden/alldesigns/) and find an example or two of layout techniques that you find interesting. Use Firebug to pick apart how the layout was achieved. Adjust various CSS properties and see what happens.
+We'll start this week by taking some time to find some design inspiration, and also learning from the mistakes of others. Browse the [CSS Zen Garden](http://www.mezzoblue.com/zengarden/alldesigns/) and choose two examples of layout techniques that you find interesting. Use Firebug to pick apart how the layout was achieved. Adjust various CSS properties and see what happens.
 
-Make note of two examples: one that you find *effective*, and one that you find *misguided*. Think about why one of them works, and the other doesn't. Is it the aesthetics? Is the text difficult to read? Think about what it is you like or don't like in each case.
+You are looking for two layouts: one that you find *effective*, and one that you find *misguided*. Think about why one of them works, and the other doesn't. Is it the aesthetics? Is the text difficult to read? Think about what it is you like or don't like in each case.
 
 ### Write about it
 
@@ -17,7 +17,7 @@ Write a short essay about what you like and don't like about two of the designs.
 
 ### Layout your essay
 
-Make a web page for your essay. It should have a single HTML file and a single CSS file (call them layout.html and layout.css). You can start off with the same boilerplate HTML template we used in the first week's assignment. Most of our efforts will go into tuning our CSS. Instead of using the GitHub website, work on files on your local computer. Use the 'File &rarr; Open' menu option to open your files up in a web browser.
+Make a web page for your essay. It should have a single HTML file and a single CSS file (call them layout.html and layout.css). You can start off with the same boilerplate HTML template we used in the first and second week's assignment. Most of our efforts will go into fine-tuning our CSS. Instead of using the GitHub website, work on files on your local computer. To check your changes, use the 'File &rarr; Open' menu option to open up your page in a web browser.
 
 Use the layout approaches we discussed in class, as well as those you observed in the CSS Zen Garden, to build a layout for your essay. Think about the line length, the spacing between lines, the font size, etc.
 
