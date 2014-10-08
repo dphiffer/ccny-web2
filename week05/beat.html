@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Beat</title>
+  </head>
+  <style>
+  
+  body {
+    background: #0B1529;
+  }
+  
+  @keyframes beat {
+    0%   { background: #fff;
+           width: 300px; height: 300px;
+           margin: -150px -150px;
+           border-radius: 150px; }
+    20%  { background: #f30;
+           width: 500px;
+           height: 500px;
+           margin: -250px -250px;
+           border-radius: 250px; }
+    40%  { background: #fff;
+           width: 400px; height: 400px;
+           margin: -200px -200px;
+           border-radius: 200px; }
+    60%  { background: #f30;
+           width: 500px;
+           height: 500px;
+           margin: -250px -250px;
+           border-radius: 250px; }
+    80%  { background: #fff;
+           width: 300px; height: 300px;
+           margin: -150px -150px;
+           border-radius: 150px; }
+    100% { background: #fff;
+           width: 300px; height: 300px;
+           margin: -150px -150px;
+           border-radius: 150px; }
+  }
+  
+  #foo {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    background: #fff;
+    width: 300px;
+    height: 300px;
+    margin: -150px -150px;
+    border-radius: 150px;
+    animation: beat infinite 1.5s;
+  }
+  
+  </style>
+  <body>
+    <div id="foo"></div>
+  </body>
+</html>
