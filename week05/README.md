@@ -1,4 +1,4 @@
-## Week 4: CSS Transitions and Animations
+## Week 5: CSS Transitions and Animations
 #### [Design for the Web 2](https://github.com/ccny-edm/web2)
 
 This week we will adapt an existing animation, embellishing it using the transition/animation CSS techniques we covered in class.
