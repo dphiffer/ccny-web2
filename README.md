@@ -68,7 +68,7 @@ Grades are given based on: 
 *No class meeting September 24*
 * [Week 4: HTML semantics](https://github.com/ccny-edm/web2/tree/master/week04)
 * [Week 5: CSS animation/transitions](https://github.com/ccny-edm/web2/tree/master/week05)
-* Week 6: Responsive images
+* [Week 6: Responsive images](https://github.com/ccny-edm/web2/tree/master/week06)
 * Week 7: Lab day
 * Week 8: Midterms
 * Week 9: The future and near future
