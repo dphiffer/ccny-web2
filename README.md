@@ -62,12 +62,12 @@ Grades are given based on: 
 
 #### Class Schedule
 
-* Week 1: Developer tools
-* Week 2: Mobile-first development
-* Week 3: Typography and layout  
+* [Week 1: Developer tools](https://github.com/ccny-edm/web2/tree/master/week01)
+* [Week 2: Mobile-first development](https://github.com/ccny-edm/web2/tree/master/week02)
+* [Week 3: Typography and layout](https://github.com/ccny-edm/web2/tree/master/week03)
 *No class meeting September 24*
-* Week 4: HTML semantics
-* Week 5: CSS animation/transitions
+* [Week 4: HTML semantics](https://github.com/ccny-edm/web2/tree/master/week04)
+* [Week 5: CSS animation/transitions](https://github.com/ccny-edm/web2/tree/master/week05)
 * Week 6: Responsive images
 * Week 7: Lab day
 * Week 8: Midterms
