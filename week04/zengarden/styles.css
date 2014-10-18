@@ -23,17 +23,19 @@ section {
 }
 
 .column {
-	float: left;
 	width: 50%;
-	padding-left: 30px;
 	text-align: center;
 }
 
-.column:first-child {
-	padding-left: 0;
+.left-column {
+	float: left;
 }
 
-.column .fixed-width {
+.right-column {
+	float: right;
+}
+
+.fixed-width {
 	width: 400px;
 	margin-left: auto;
 	margin-right: auto;

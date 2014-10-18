@@ -1,0 +1,45 @@
+#slideshow {
+	position: relative;
+	width: 800px;
+	height: 450px;
+	overflow: hidden;
+}
+
+#slider {
+	position: absolute;
+	left: 0;
+	top: 0;
+	transition: left cubic-bezier(.01,.98,.87,.97) 0.75s;
+	width: 4000px;
+}
+
+figure {
+	float: left;
+	width: 800px;
+	height: 450px;
+	margin: 0;
+}
+
+#first {
+	background: red;
+}
+
+#second {
+	background: green;
+}
+
+#third {
+	background: yellow;
+}
+
+#fourth {
+	background: orange;
+}
+
+#fifth {
+	background: purple;
+}
+
+.clear {
+	clear: both;
+}
