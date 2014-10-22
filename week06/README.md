@@ -3,7 +3,7 @@
 
 Midterm assignment
 ------------------
-*Due Saturday October 25th*
+*Due Saturday November 1st*
 
 Create a portfolio web page using the following specifications:
 
