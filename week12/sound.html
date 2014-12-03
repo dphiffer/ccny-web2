@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>HTML 5 Audio</title>
+  </head>
+  <body>
+    <a href="#">mute sound</a>
+    <audio id="example">
+      <source src="audio/example.mp3" type="audio/mpeg">
+    </audio>
+    <audio id="click">
+      <source src="audio/click.mp3" type="audio/mpeg">
+    </audio>
+    <script>
+    
+    var link = document.getElementsByTagName('a')[0];
+    var example = document.getElementById('example');
+    var click = document.getElementById('click');
+    var playing = false;
+    link.addEventListener('mousedown', function(e) {
+      click.play();
+    }, false);
+    link.addEventListener('click', function(e) {
+      e.preventDefault();
+      if (playing) {
+        example.pause();
+      } else {
+        example.play();
+      }
+      playing = !playing;
+    }, false);
+    window.addEventListener('load', function() {
+      example.play();
+      playing = true;
+    }, false);
+    
+    </script>
+  </body>
+</html>

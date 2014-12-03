@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>HTML 5 Video</title>
+    <style>
+    
+    #bg {
+      position: absolute;
+      left: 0;
+      top: 0;
+    }
+    
+    #fg {
+      position: absolute;
+      left: 30px;
+      top: 30px;
+    }
+    
+    </style>
+  </head>
+  <body>
+    <video width="540" height="360" id="bg" autoplay>
+      <source src="video/example.webm" type="video/webm">
+      <source src="video/example.mp4" type="video/mp4">
+    </video>
+    <!--<div id="fg">
+      <video width="540" height="360" id="example" controls>
+        <source src="video/example.webm" type="video/webm">
+        <source src="video/example.mp4" type="video/mp4">
+      </video>
+    </div>-->
+    <script>
+    
+    function position() {
+      var bg = document.getElementById('bg');
+      var ratio = bg.offsetWidth / bg.offsetHeight;
+      var width = window.innerWidth;
+      var height = width / ratio;
+      if (height < window.innerHeight) {
+        height = window.innerHeight;
+        width = ratio * height;
+        bg.style.marginLeft = ((window.innerWidth - width) / 2) + 'px';
+        bg.style.marginTop = 0;
+      } else {
+        bg.style.marginTop = ((window.innerHeight - height) / 2) + 'px';
+        bg.style.marginLeft = 0;
+      }
+      bg.style.width = width + 'px';
+      bg.style.height = height + 'px';
+    }
+    
+    position();
+    window.addEventListener('resize', position, false);
+    
+    </script>
+  </body>
+</html>
